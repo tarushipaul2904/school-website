@@ -1,0 +1,49 @@
+button{
+    height: 40px;
+        width: 40px;
+    background-color: dimgrey;
+    border-radius: 40px;
+margin:left:90px;
+    margin-right: 50px;
+}
+#toggle{
+    padding-right: 100px;
+    height: 20px; 
+    width:20px;
+}
+.navbar-header{
+    background-color: dimgrey;
+    text-align: left;
+}
+h1{
+    color: white;
+text-decoration: bold;
+}
+a{
+    color: white;
+  font-size: 20px;
+}
+#schoolimg{
+    height: 500px;
+    width; 500px;
+}
+body{
+background-image: url(bokeh.jpg);
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+#aboutUs{
+    text-align: center;
+}
+#img-philosophy{
+    padding-left: 500px;
+}
+h2{
+    color: white;
+}
+hr{
+    width: 300px;
+  color: black;
+}
